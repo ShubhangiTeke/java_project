@@ -12,3 +12,23 @@ Store item details such as name, description, and location.
 Mark items as returned.
 Generate a unique ID for each reported item.
 Simple menu-driven interface.
+
+Technologies Used
+Programming Language: Java
+Concepts: Classes, Objects, Constructors, ArrayList, Loops, Methods, and Conditional Statements
+Input Handling: Scanner
+Project Structure
+LostFoundSystem/
+│
+├── LostFoundSystem.java
+└── README.md
+
+Technologies Used
+Programming Language: Java
+Concepts: Classes, Objects, Constructors, ArrayList, Loops, Methods, and Conditional Statements
+Input Handling: Scanner
+Project Structure
+LostFoundSystem/
+│
+├── LostFoundSystem.java
+└── README.md
