@@ -114,7 +114,7 @@ The Lost & Found System is a beginner-friendly Java project that demonstrates ob
 
 ## Author
 
-**Your Name**
+**Shubhangi Teke**
 
 ## License
 
