@@ -22,13 +22,10 @@ The Lost & Found System is a Java-based application designed to help users repor
 * **Input Handling:** Scanner
 
 ## Project Structure
-
-```text
 LostFoundSystem/
 │
 ├── LostFoundSystem.java
 └── README.md
-```
 
 ## Prerequisites
 
